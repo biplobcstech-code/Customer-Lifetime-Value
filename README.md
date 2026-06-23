@@ -386,3 +386,9 @@ The Customer Lifetime Value Prediction System provides a complete Machine Learni
 Among all evaluated models, the Gradient Boosting Regressor delivered the best results, achieving a Test R² Score of 0.9994 with very low prediction error. These results demonstrate the effectiveness of Machine Learning in forecasting customer value and supporting strategic business planning.
 
 This project serves as a practical example of how data-driven techniques can transform customer analytics into actionable business intelligence.
+
+# Author
+* Biplob Kumar Dutta 
+* Intern ID CTIS9255
+* Duration - 8 WEEk
+* 
